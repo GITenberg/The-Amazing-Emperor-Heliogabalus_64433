@@ -1,0 +1,29 @@
+_repo: The-Amazing-Emperor-Heliogabalus_64433
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Bury, J. B. (John Bagnell)
+    alias: Bury, John Bagnell
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '1506'
+    url: http://www.gutenberg.org/2009/agents/1506
+    wikipedia: http://en.wikipedia.org/wiki/J._B._Bury
+creator:
+  author:
+    agent_name: Hay, John Stuart
+    gutenberg_agent_id: '52897'
+    url: http://www.gutenberg.org/2009/agents/52897
+description: ''
+gutenberg_issued: '2021-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Amazing Emperor Heliogabalus
+url: http://www.gutenberg.org/ebooks/64433
