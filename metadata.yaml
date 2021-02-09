@@ -1,5 +1,5 @@
 _repo: The-Amazing-Emperor-Heliogabalus_64433
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Bury, J. B. (John Bagnell)
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '1506'
     url: http://www.gutenberg.org/2009/agents/1506
     wikipedia: http://en.wikipedia.org/wiki/J._B._Bury
+covers:
+- cover_type: archival
+  image_path: 64433-h/images/cover.jpg
 creator:
   author:
     agent_name: Hay, John Stuart
     gutenberg_agent_id: '52897'
     url: http://www.gutenberg.org/2009/agents/52897
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64433#The-Amazing-Emperor-Heliogabalus
 gutenberg_issued: '2021-01-31'
 gutenberg_type: Text
 identifiers:
